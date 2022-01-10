@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+
+}
+
+.card1{
+    background-color: #1F2937;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
